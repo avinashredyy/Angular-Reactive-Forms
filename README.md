@@ -2,7 +2,7 @@
 Created a simple form using Angulars Reactive Forms instead of template forms. Implemented two types of reactive forms. One using Instances and another using FormBuilder
 
 ## Requirements
-Angular CLI
+Angular CLI, 
 Node.js
 
 ## How to run
